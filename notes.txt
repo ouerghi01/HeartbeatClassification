@@ -1,3 +1,4 @@
 https://www.youtube.com/watch?v=O1f5-yn-NZ4&ab_channel=RachitSrivastavagi
 https://www.pythonprog.com/wavelet-transformation-with-python/
 https://onlinelibrary.wiley.com/doi/10.1155/2014/712474
+https://freedium.cfd/https://medium.com/swlh/extracting-features-patterns-in-a-price-data-using-wavelet-transform-part-1-72b55bcde2de
