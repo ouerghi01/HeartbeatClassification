@@ -2,3 +2,6 @@ https://www.youtube.com/watch?v=O1f5-yn-NZ4&ab_channel=RachitSrivastavagi
 https://www.pythonprog.com/wavelet-transformation-with-python/
 https://onlinelibrary.wiley.com/doi/10.1155/2014/712474
 https://freedium.cfd/https://medium.com/swlh/extracting-features-patterns-in-a-price-data-using-wavelet-transform-part-1-72b55bcde2de
+https://stackoverflow.com/questions/55321864/attributeerror-the-layer-has-never-been-called-and-thus-has-no-defined-input-sh
+https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python
+https://stackoverflow.com/questions/71493889/how-can-reslove-invalidargumenterror-graph-execution-error
